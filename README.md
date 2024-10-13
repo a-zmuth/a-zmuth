@@ -1,7 +1,7 @@
 **Hey, I'm Azmoth** 
 
 
-**I'm a software engineer interested in low-level architecture, logic, math, neuroscience, physics, writing and tech.** 
+**I build stuff sometimes, interested in low-level architecture, logic, math, neuroscience, physics, writing and tech.** 
 
 🔭 I’m currently working on a time machine [Don't worry, this will make sense as time unfolds - hehe].
 
