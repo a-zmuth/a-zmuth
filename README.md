@@ -1,7 +1,7 @@
 **Hey, I'm Azmoth** 
 
 
-**I build stuff, interested in low-level architecture, logic, math, neuroscience, physics, writing and tech.** 
+**I build stuff, interested in low-level architecture, logic, math, neuroscience, physics, philosophy and tech.** 
 
 🔭 Obssesed with Time as the logistical necessity for all events and the backdrop of reality.
 
